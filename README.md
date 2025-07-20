@@ -10,7 +10,7 @@
 
 <!-- Interactive Profile Card with Glassmorphism -->
 <div align="center">
-  <img width="100%" src="https://github.com/Unseencoderz/Unseencoderz/assets/your-banner-image.png" alt="Profile Banner"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 <br/>
@@ -308,7 +308,8 @@ $ echo "I love discussing: ${topics[@]}"
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user_id&count=3&unique=true&width=600" alt="Spotify recently played"/>
+<!-- Replace with your actual Spotify User ID when ready -->
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=3&unique=true&width=600" alt="Spotify recently played"/> -->
 
 </div>
 

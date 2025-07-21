@@ -1,6 +1,6 @@
 <!-- Ultra-Modern Animated Header with Particles -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=SAHIL%20GAUTAM&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Expert%20|%20Problem%20Solver&descSize=20&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Sahil%20Gautam&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Expert%20|%20Problem%20Solver&descSize=20&descAlignY=55&descAlign=50"/>
 </div>
 
 <!-- Hero Section with Advanced Typing Animation -->
@@ -293,6 +293,15 @@ $ echo "I love discussing: ${topics[@]}"
 <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=Gabriela&quoteCategory=programming" alt="Programming Quote"/>
 </div>
 
+<!-- Interactive Dev Joke Section -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
+## 😂 **Dev Joke of the Day**
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%2358A6FF&aColor=%23FF6B6B&borderColor=%2358A6FF" alt="Dev Joke" />
+</div>
+
 <!-- Footer with Social Proof -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
 
@@ -326,3 +335,8 @@ $ echo "I love discussing: ${topics[@]}"
 <div align="center"> 
   <sub>💻 Built with love using modern web technologies • ⚡ Always evolving</sub>
 </div>
+
+<!-- Funny Ending Gif -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="350" alt="Funny coding gif" />
+</p>

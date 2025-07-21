@@ -1,4 +1,3 @@
-# 🌟 Sahil Gautam
 
 <div align="center">
 
@@ -25,7 +24,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-d8pm.onrender.com/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilgautam0097@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gautam-996155268/)
-[![GitHub](https://img.shields.io/badge/🐱_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unseencoderz)
+
 
 [![GeeksforGeeks](https://img.shields.io/badge/🏆_GeeksforGeeks-6★-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sahil213/)
 [![HackerRank](https://img.shields.io/badge/💻_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/CS_2201640100255)

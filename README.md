@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Sahil%20Gautam&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&fontColor=gradient&textBg=false&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sahil%20Gautam&fontAlign=52&textBg=false&animation=fadeIn)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+%7B;++name%3A+%22Sahil+Gautam%22%2C;++passion%3A+%22Building+Digital+Dreams%22;%7D%3B)](https://git.io/typing-svg)

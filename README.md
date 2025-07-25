@@ -79,7 +79,7 @@ console.log(sahil.getSkills());
 
 ### Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=react,vue,typescript,javascript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
 </p>
 
 ### Backend & Database
@@ -89,12 +89,12 @@ console.log(sahil.getSkills());
 
 ### DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify,aws,linux" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify" alt="Tools" />
 </p>
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript,python,java" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript" alt="Languages" />
 </p>
 
 </div>

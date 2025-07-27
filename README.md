@@ -205,6 +205,6 @@ mindmap
 
 **⭐ Don't forget to star repositories you find interesting!**
 
-[![Made with ❤️ by Sahil Gautam](https://img.shields.io/badge/Made_with_❤️_by-Sahil_Gautam-667eea?style=for-the-badge&labelColor=0D1117)](https://github.com/Unseencoderz)
+
 
 </div>

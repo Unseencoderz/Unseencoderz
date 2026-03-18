@@ -12,7 +12,7 @@
 <br/>
 
 <p align="center">
-  <span style="font-family: 'JetBrains Mono', monospace; font-size: 22px; color: #a78bfa;">
+  <span style="font-family: 'JetBrains Mono', monospace; font-size: 80px; color: #a78bfa;">
     I'm Sahil Gautam,
   </span>
   <img src="https://raw.githubusercontent.com/Unseencoderz/Unseencoderz/main/typing.svg" />

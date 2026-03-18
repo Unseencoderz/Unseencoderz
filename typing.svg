@@ -1,4 +1,4 @@
-<svg width="600" height="36" xmlns="http://www.w3.org/2000/svg">
+<svg width="320" height="36" xmlns="http://www.w3.org/2000/svg">
   <style>
     text {
       font-family: 'JetBrains Mono', 'Courier New', monospace;
@@ -8,7 +8,7 @@
   </style>
 
   <!-- Role 1: Full-Stack Developer -->
-  <text x="300" y="26" text-anchor="middle" opacity="0">
+  <text x="0" y="26" opacity="0">
     Full-Stack Developer
     <animate attributeName="opacity"
       values="0;0;1;1;1;1;0;0;0;0"
@@ -17,7 +17,7 @@
   </text>
 
   <!-- Role 2: Expert @ Codeforces -->
-  <text x="300" y="26" text-anchor="middle" opacity="0">
+  <text x="0" y="26" opacity="0">
     Expert @ Codeforces
     <animate attributeName="opacity"
       values="0;0;1;1;1;1;0;0;0;0"
@@ -26,7 +26,7 @@
   </text>
 
   <!-- Role 3: Guardian @ LeetCode -->
-  <text x="300" y="26" text-anchor="middle" opacity="0">
+  <text x="0" y="26" opacity="0">
     Guardian @ LeetCode
     <animate attributeName="opacity"
       values="0;0;1;1;1;1;0;0;0;0"
@@ -35,7 +35,7 @@
   </text>
 
   <!-- Role 4: Open Source Enthusiast -->
-  <text x="300" y="26" text-anchor="middle" opacity="0">
+  <text x="0" y="26" opacity="0">
     Open Source Enthusiast
     <animate attributeName="opacity"
       values="0;0;1;1;1;1;0;0;0;0"
@@ -44,7 +44,7 @@
   </text>
 
   <!-- Role 5: Problem Solver -->
-  <text x="300" y="26" text-anchor="middle" opacity="0">
+  <text x="0" y="26" opacity="0">
     Problem Solver
     <animate attributeName="opacity"
       values="0;0;1;1;1;1;0;0;0;0"

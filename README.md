@@ -1,19 +1,61 @@
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sahil%20Gautam&fontAlign=52&textBg=false&animation=fadeIn)
 
+<!-- Waving hand GIF — large, centered, sits right below the banner -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="waving hand"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+%7B;++name%3A+%22Sahil+Gautam%22%2C;++passion%3A+%22Building+Digital+Dreams%22;%7D%3B)](https://git.io/typing-svg)
+<br/>
 
-> *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**  
-> *Building tomorrow's solutions with today's passion* 🚀
+<!-- Multilingual "Hello World!" cycling with typing effect -->
+[![Greeting](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=38&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&height=65&lines=Hello+World!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+World!;%C2%A1Hola+World!;Bonjour+World!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+World!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+World!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+World!;Ciao+World!;Ol%C3%A1+World!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+World!;%E4%BD%A0%E5%A5%BD+World!;Merhaba+World!)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🌍_Location-Kanpur,_India-667eea?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/💼_Open_to-Opportunities-FF6B6B?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://komarev.com/ghpvc/?username=Unseencoderz&label=Profile%20Views&color=667eea&style=for-the-badge&labelColor=0D1117" />
+<br/>
+
+<!-- Static name + animated role on next line — closest stable GitHub alternative -->
+<!-- to "I'm Sahil Gautam, [typing role]" on one line -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=720&height=50&lines=I%27m+Sahil+Gautam+%E2%80%94+Full-Stack+Developer;I%27m+Sahil+Gautam+%E2%80%94+Expert+%40+Codeforces;I%27m+Sahil+Gautam+%E2%80%94+Guardian+%40+LeetCode;I%27m+Sahil+Gautam+%E2%80%94+Open+Source+Enthusiast;I%27m+Sahil+Gautam+%E2%80%94+Problem+Solver" alt="Typing SVG" />
+
+<br/>
+
+<!-- Quick-link badges -->
+<a href="https://portfolio-d8pm.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=a78bfa&labelColor=1a1a2e" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/sahil-gautam-996155268/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=1a1a2e" />
+</a>&nbsp;
+<a href="mailto:sahilgautam0097@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=1a1a2e" />
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Unseencoderz&style=flat-square&color=a78bfa&label=views&labelColor=1a1a2e" />
+
 </div>
+
+---
+
+<!-- About section with side gif -->
+<img align="right" width="36%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif" />
+
+### `whoami`
+
+```yaml
+name     : Sahil Gautam
+role     : Full-Stack Developer
+college  : B.Tech CSE @ PSIT Kanpur
+location : Kanpur, India 🇮🇳
+status   : Open to Opportunities
+```
+
+### `current --focus`
+
+```yaml
+- MERN Stack    →  Advanced patterns & optimization
+- System Design →  Scalable architecture
+- DevOps        →  Docker · CI/CD · Cloud
+- AI / Cloud    →  OCI GenAI · Salesforce AI
+```
+
+<br clear="right"/>
 
 ---
 
@@ -21,127 +63,114 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-d8pm.onrender.com/)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilgautam0097@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gautam-996155268/)
-
-
-[![GeeksforGeeks](https://img.shields.io/badge/🏆_GeeksforGeeks-6★-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sahil213/)
-[![HackerRank](https://img.shields.io/badge/💻_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/CS_2201640100255)
-
-</div>
-
----
-
-</div>
-
-## 🎯 About Me
-
-<div align="left">
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Sahil Gautam";
-    this.role = "Full-Stack Developer";
-    this.education = "B.Tech CSE @ PSIT Kanpur";
-    this.cgpa = "8.00/10.0";
-    this.location = "Kanpur, India 🇮🇳";
-    this.mindset = "Creative Problem Solver";
-  }
-
-  getSkills() {
-    return {
-      frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
-      backend: ["Node.js", "Express.js", "REST APIs"],
-      databases: ["MongoDB", "PostgreSQL", "Firebase"],
-      tools: ["Docker", "Git", "AWS", "Vercel"]
-    };
-  }
-
-  getCurrentFocus() {
-    return ["MERN Stack Mastery", "DevOps Integration", "System Design"];
-  }
-}
-
-const sahil = new Developer();
-console.log(sahil.getSkills());
-```
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,typescript,javascript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
-</p>
-
-### Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,firebase,supabase" alt="Backend Skills" />
-</p>
-
-### DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify" alt="Tools" />
-</p>
-
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript" alt="Languages" />
-</p>
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="50%">
 
-### 🎯 Competitive Programming
-![ICPC Badge](https://img.shields.io/badge/🏅_ICPC_Asia_Kanpur-Global_Rank_921-gold?style=for-the-badge&labelColor=0D1117)
-![GeeksforGeeks](https://img.shields.io/badge/⭐_GeeksforGeeks-6_Star_Coder-brightgreen?style=for-the-badge&logo=geeksforgeeks&labelColor=0D1117)
-
+<td align="center">
+<a href="https://portfolio-d8pm.onrender.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/><br/>
+<sub><b>Portfolio</b></sub>
+</a>
 </td>
-<td align="center" width="50%">
 
-### 🎓 Certifications
-![Salesforce](https://img.shields.io/badge/🤖_Salesforce-AI_AgentBlazer-blue?style=for-the-badge&logo=salesforce&labelColor=0D1117)
-![Infosys](https://img.shields.io/badge/💼_Infosys-Springboard_Certified-orange?style=for-the-badge&labelColor=0D1117)
-
+<td align="center">
+<a href="mailto:sahilgautam0097@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/><br/>
+<sub><b>Email</b></sub>
+</a>
 </td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/sahil-gautam-996155268/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/><br/>
+<sub><b>LinkedIn</b></sub>
+</a>
+</td>
+
 </tr>
 </table>
 
-[![View All Certificates](https://img.shields.io/badge/📜_View_All_Certificates-667eea?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1PzStdtNELv0R1U6QGfkdkAwWIUZUVBMU)
+<br/>
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://leetcode.com/u/Sahi12026" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/><br/>
+<sub><b>LeetCode</b></sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://codeforces.com/profile/sahi2213" target="_blank">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45"/><br/>
+<sub><b>Codeforces</b></sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.codechef.com/users/sahi2213" target="_blank">
+<img src="https://cdn.simpleicons.org/codechef/5B4638" height="45"/><br/>
+<sub><b>CodeChef</b></sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.geeksforgeeks.org/user/sahi213" target="_blank">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="45"/><br/>
+<sub><b>GeeksforGeeks</b></sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.hackerrank.com/profile/cs_2201640100255" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45"/><br/>
+<sub><b>HackerRank</b></sub>
+</a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Unseencoderz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Unseencoderz&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=FF6B6B&currStreakLabel=667eea" />
+### Frontend
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unseencoderz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=10" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,tailwind,html,css,bootstrap" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Unseencoderz&bg_color=0D1117&color=667eea&line=FF6B6B&point=8B5CF6&area=true&hide_border=true&theme=tokyo-night)
+### Backend & DB
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Unseencoderz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,firebase,supabase" />
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel,netlify,vscode" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Unseencoderz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Unseencoderz&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=FF6B6B&currStreakLabel=a78bfa" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unseencoderz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Unseencoderz&bg_color=0D1117&color=a78bfa&line=FF6B6B&point=a78bfa&area=true&area_color=a78bfa&hide_border=true&theme=tokyo-night)
 
 </div>
 
@@ -153,7 +182,7 @@ console.log(sahil.getSkills());
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unseencoderz/Unseencoderz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unseencoderz/Unseencoderz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Unseencoderz/Unseencoderz/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Unseencoderz/Unseencoderz/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -163,30 +192,7 @@ console.log(sahil.getSkills());
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### 🎯 Current Goals
-
-```mermaid
-mindmap
-  root((Sahil's Journey))
-    MERN Stack Mastery
-      Advanced React Patterns
-      Node.js Optimization
-      Database Design
-    System Design
-      Scalable Architecture
-      Microservices
-      Load Balancing
-    DevOps Integration
-      Docker Containerization
-      CI/CD Pipelines
-      Cloud Deployment
-    Open Source
-      Contributing to Projects
-      Building Community Tools
-      Knowledge Sharing
-```
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -194,17 +200,12 @@ mindmap
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
-
-**"The best time to plant a tree was 20 years ago. The second best time is now."**  
-*Ready to turn ideas into reality* 🌱➡️🌳
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+### 🙏 Thanks for visiting!
 
 **⭐ Don't forget to star repositories you find interesting!**
 
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4f46e5&height=100&section=footer&animation=twinkling"/>
 
 </div>

@@ -11,9 +11,12 @@
 
 <br/>
 
-<!-- Static name + animated role on next line — closest stable GitHub alternative -->
-<!-- to "I'm Sahil Gautam, [typing role]" on one line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=720&height=50&lines=I%27m+Sahil+Gautam+%E2%80%94+Full-Stack+Developer;I%27m+Sahil+Gautam+%E2%80%94+Expert+%40+Codeforces;I%27m+Sahil+Gautam+%E2%80%94+Guardian+%40+LeetCode;I%27m+Sahil+Gautam+%E2%80%94+Open+Source+Enthusiast;I%27m+Sahil+Gautam+%E2%80%94+Problem+Solver" alt="Typing SVG" />
+<p align="center">
+  <span style="font-family: 'JetBrains Mono', monospace; font-size: 22px; color: #a78bfa;">
+    I'm Sahil Gautam,
+  </span>
+  <img src="https://raw.githubusercontent.com/Unseencoderz/Unseencoderz/main/typing.svg" />
+</p>
 
 <br/>
 

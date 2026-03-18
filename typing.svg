@@ -1,23 +1,54 @@
-<svg width="420" height="30" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="36" xmlns="http://www.w3.org/2000/svg">
   <style>
     text {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 22px;
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 20px;
       fill: #a78bfa;
     }
   </style>
 
-  <text x="0" y="22">
-    <tspan>
-      <animate attributeName="textContent"
-        values="
-        Full-Stack Developer;
-        Expert @ Codeforces;
-        Guardian @ LeetCode;
-        Open Source Enthusiast;
-        Problem Solver"
-        dur="10s"
-        repeatCount="indefinite"/>
-    </tspan>
+  <!-- Role 1: Full-Stack Developer -->
+  <text x="300" y="26" text-anchor="middle" opacity="0">
+    Full-Stack Developer
+    <animate attributeName="opacity"
+      values="0;0;1;1;1;1;0;0;0;0"
+      keyTimes="0;0.02;0.06;0.16;0.18;0.2;0.22;0.5;0.98;1"
+      dur="10s" begin="0s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 2: Expert @ Codeforces -->
+  <text x="300" y="26" text-anchor="middle" opacity="0">
+    Expert @ Codeforces
+    <animate attributeName="opacity"
+      values="0;0;1;1;1;1;0;0;0;0"
+      keyTimes="0;0.02;0.06;0.16;0.18;0.2;0.22;0.5;0.98;1"
+      dur="10s" begin="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 3: Guardian @ LeetCode -->
+  <text x="300" y="26" text-anchor="middle" opacity="0">
+    Guardian @ LeetCode
+    <animate attributeName="opacity"
+      values="0;0;1;1;1;1;0;0;0;0"
+      keyTimes="0;0.02;0.06;0.16;0.18;0.2;0.22;0.5;0.98;1"
+      dur="10s" begin="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 4: Open Source Enthusiast -->
+  <text x="300" y="26" text-anchor="middle" opacity="0">
+    Open Source Enthusiast
+    <animate attributeName="opacity"
+      values="0;0;1;1;1;1;0;0;0;0"
+      keyTimes="0;0.02;0.06;0.16;0.18;0.2;0.22;0.5;0.98;1"
+      dur="10s" begin="6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 5: Problem Solver -->
+  <text x="300" y="26" text-anchor="middle" opacity="0">
+    Problem Solver
+    <animate attributeName="opacity"
+      values="0;0;1;1;1;1;0;0;0;0"
+      keyTimes="0;0.02;0.06;0.16;0.18;0.2;0.22;0.5;0.98;1"
+      dur="10s" begin="8s" repeatCount="indefinite"/>
   </text>
 </svg>

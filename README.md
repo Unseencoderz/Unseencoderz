@@ -96,28 +96,28 @@ status   : Open to Opportunities
 <tr>
 
 <td align="center">
-<a href="https://leetcode.com/u/Sahi12026" target="_blank">
+<a href="https://leetcode.com/u/Sahil2026" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/><br/>
 <sub><b>LeetCode</b></sub>
 </a>
 </td>
 
 <td align="center">
-<a href="https://codeforces.com/profile/sahi2213" target="_blank">
+<a href="https://codeforces.com/profile/sahil2213" target="_blank">
 <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45"/><br/>
 <sub><b>Codeforces</b></sub>
 </a>
 </td>
 
 <td align="center">
-<a href="https://www.codechef.com/users/sahi2213" target="_blank">
+<a href="https://www.codechef.com/users/sahil2213" target="_blank">
 <img src="https://cdn.simpleicons.org/codechef/5B4638" height="45"/><br/>
 <sub><b>CodeChef</b></sub>
 </a>
 </td>
 
 <td align="center">
-<a href="https://www.geeksforgeeks.org/user/sahi213" target="_blank">
+<a href="https://www.geeksforgeeks.org/user/sahil213" target="_blank">
 <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="45"/><br/>
 <sub><b>GeeksforGeeks</b></sub>
 </a>

@@ -14,9 +14,9 @@
     .role4 { animation-delay: 9s; }
 
     @keyframes fadeSlide {
-  0%   { opacity: 0; transform: translateY(4px); }   
-  5%, 20% { opacity: 1; transform: translateY(-4px); }
-  25%, 100% { opacity: 0; transform: translateY(-14px); } 
+  0%   { opacity: 0; transform: translateY(3.75px); }   
+  5%, 20% { opacity: 1; transform: translateY(-3.75px); }
+  25%, 100% { opacity: 0; transform: translateY(-13.75px); } 
 }
   </style>
   

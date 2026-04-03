@@ -2,7 +2,7 @@
   <style>
     .text {
       font-family: 'JetBrains Mono', monospace, sans-serif;
-      font-size: 24px;
+      font-size: 1.75em;
       font-weight: 700;
       fill: #A78BFA;
       opacity: 0;

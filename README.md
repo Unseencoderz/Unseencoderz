@@ -8,7 +8,7 @@
 
 <br/>
 <h2>
-  I'm Sahil Gautam, a <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=A78BFA&vCenter=true&width=360&height=55&cursor=_&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Contributor;Problem+Solver" alt="Typing Roles" align="absmiddle" />
+  I'm Sahil Gautam, a <img src="./typing.svg" alt="Typing Roles" align="absmiddle" />
 </h2>
 <br/>
 

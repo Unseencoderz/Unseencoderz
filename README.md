@@ -1,23 +1,14 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px" alt="waving hand"/>
 
-<!-- Waving hand GIF — large, centered, sits right below the banner -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="waving hand"/>
+<br/><br/>
 
-<br/>
-
-<!-- Multilingual "Hello World!" cycling with typing effect -->
 [![Greeting](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=38&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&height=65&lines=Hello+World!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+World!;%C2%A1Hola+World!;Bonjour+World!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+World!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+World!;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+World!;Ciao+World!;Ol%C3%A1+World!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+World!;%E4%BD%A0%E5%A5%BD+World!;Merhaba+World!)](https://git.io/typing-svg)
 
 <br/>
 
-<p align="center">
-  <span style="font-family: 'JetBrains Mono', monospace; font-size: 80px; color: #a78bfa;">
-    I'm Sahil Gautam , 
-  </span>
-  <img src="https://raw.githubusercontent.com/Unseencoderz/Unseencoderz/main/typing.svg" />
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=55&lines=I%27m+Sahil+Gautam%2C+a+Full+Stack+Developer.;I%27m+Sahil+Gautam%2C+a+Competitive+Programmer.;I%27m+Sahil+Gautam%2C+an+Open+Source+Enthusiast.;I%27m+Sahil+Gautam%2C+a+Problem+Solver.;I%27m+Sahil+Gautam%2C+a+MERN+Stack+Engineer.)](https://git.io/typing-svg)
 <br/>
 
 <!-- Quick-link badges -->

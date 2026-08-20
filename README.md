@@ -8,7 +8,7 @@
 
 <br/>
 <h2>
-  I'm Sahil Gautam, a <img src="./typing.svg" alt="Typing Roles" align="absmiddle" />
+  I'm Sahil Gautam, a    <img src="./typing.svg" alt="Typing Roles" align="absmiddle" />
 </h2>
 <br/>
 
